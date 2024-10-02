@@ -1,3 +1,6 @@
+<img width="655" alt="TCP_VS_UDP" src="https://github.com/user-attachments/assets/c7c17bcc-bb47-4d96-a941-10fc6c945f7d">
+
+
 The image you shared gives a breakdown of the OSI (Open Systems Interconnection) model, which is essential in understanding how data travels across a network, a key topic in both **cloud computing** and **DevOps**.
 
 Let me walk you through the different layers and protocols, then relate them to **cloud computing** and **DevOps** concepts:
